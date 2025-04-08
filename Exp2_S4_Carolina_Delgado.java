@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author oyash
+ * @author Carolina Delgado
  */
 public class Exp2_S4_Carolina_Delgado {
 
